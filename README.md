@@ -12,7 +12,13 @@ Once you fill the form and confirm it, the price for the services selected will 
 
 Once you see the prices, press the send email to get an email with the offer.
 
+## TECHNOLOGIES AND 3RD PARTY LIBRARIES
 
+- React
+- JavaScript
+- HTML
+- CSS
+- AXIOS
 
 ## Available Scripts
 
